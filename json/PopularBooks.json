@@ -1,0 +1,44 @@
+[
+  {
+    "rating": "4",
+    "title": "A TAIL OF TWO CITIES",
+    "text": "Charles Dicknes",
+    "img": "img/project.jpeg",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "THE NAME",
+    "text": "Florence Napp",
+    "img": "img/book1.jpeg",
+    "audio": "June - Bobby Richards.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "THE 100 BEST NOVEL",
+    "text": "Robert MacCum",
+    "img": "img/book2.jpeg",
+    "audio": "Muriel - Bobby Richards.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "THE BOOK OF NAMES",
+    "text": "Jill Georgy",
+    "img": "img/book3.jpeg",
+    "audio": "Piano Trap.mp3"
+  },
+  {
+    "rating": "2.9",
+    "title": "BREAST",
+    "text": "Jean Hannah",
+    "img": "img/book4.jpeg",
+    "audio": "Jan Gan.mp3"
+  },
+  {
+    "rating": "3.9",
+    "title": "RIVER IS WAITING",
+    "text": "Wally Lamp",
+    "img": "img/book5.jpeg",
+    "audio": "Sare Jahan.mp3"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "rating": "4.5",
+    "title": "BLACK BIRD ORACLE",
+    "text": "Deborah Harkness",
+    "img": "img/trend1.jpeg",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.2",
+    "title": "ATOMIC HABIT",
+    "text": "James Clear",
+    "img": "img/trend2.jpeg",
+    "audio": "June - Bobby Richards.mp3"
+  },
+  {
+    "rating": "3.5",
+    "title": "GOOD DIRT",
+    "text": "Charmine Wilkerson",
+    "img":  "img/trend3.jpeg",
+    "audio": "Muriel - Bobby Richards.mp3"
+  },
+  {
+    "rating": "5.5",
+    "title": "ATMOSPHERE",
+    "text": "Taylor Jenkinsred",
+    "img":  "img/trend4.jpeg",
+    "audio": "Piano Trap.mp3"
+  },
+  {
+    "rating": "3.1",
+    "title": "ALL THE LIGHT WE CANNOT SEE",
+    "text": "Astrony Doerr",
+    "img":  "img/trend5.jpeg",
+    "audio": "Jan Gan.mp3"
+  },
+  {
+    "rating": "3.9",
+    "title": "NOT OUITE DEAD YET",
+    "text": "Holly Jackson",
+    "img":  "img/trend6.jpeg",
+    "audio": "Sare Jahan.mp3"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "rating": "4.5",
+    "title": "THE COVENANT OF WATER",
+    "text": "Abraham Verghese",
+    "img": "img/new1.jpeg",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "A NOVEL LOVE STORY",
+    "text": "Rushly Poston",
+    "img": "img/new2.jpeg",
+    "audio": "June - Bobby Richards.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "THE DEMON OF UNREST",
+    "text": "Erik Larson",
+    "img":  "img/new3.jpeg",
+    "audio": "Muriel - Bobby Richards.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "THE EXCHANGE",
+    "text": "John Grisham",
+    "img":  "img/new4.jpeg",
+    "audio": "Piano Trap.mp3"
+  },
+  {
+    "rating": "4.9",
+    "title": "FOUR TREASURE OF THE SKY",
+    "text": "Jenny Zhang",
+    "img":  "img/new5.jpeg",
+    "audio": "Jan Gan.mp3"
+  },
+  {
+    "rating": "4.9",
+    "title": "THE MAN WHO LOST INDIA",
+    "text": "Megha Pant",
+    "img":  "img/new6.jpeg",
+    "audio": "Sare Jahan.mp3"
+  }
+]

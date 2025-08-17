@@ -1,0 +1,44 @@
+[
+  {
+    "rating": "4.5",
+    "title": "THE WATER CURE",
+    "text": "Martin Hyatt",
+    "img": "img/slide1.jpeg",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "PIECE LIFE",
+    "text": "HAZARD BIN",
+    "img": "img/slide2.jpeg",
+    "audio": "June - Bobby Richards.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "DAY REMEMBER",
+    "text": "NICHOLOS",
+    "img": "img/slide3.jpeg",
+    "audio": "Muriel - Bobby Richards.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "France",
+    "text": "Paris",
+    "img": "img/slide4.jpeg",
+    "audio": "Piano Trap.mp3"
+  },
+  {
+    "rating": "4.9",
+    "title": "My India",
+    "text": "Farhan",
+    "img": "img/slide5.png",
+    "audio": "Jan Gan.mp3"
+  },
+  {
+    "rating": "4.9",
+    "title": "My India",
+    "text": "Akhtar",
+    "img": "img/slide6.jpeg",
+    "audio": "Sare Jahan.mp3"
+  }
+]
